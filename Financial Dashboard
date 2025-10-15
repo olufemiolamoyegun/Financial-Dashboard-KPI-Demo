@@ -1,0 +1,35 @@
+# Financial Dashboard KPI Demo
+
+This repository showcases a Power BI financial dashboard designed for executive-level insights and performance tracking.
+
+## 📊 Dashboard Features
+- Revenue, Gross Profit, Net Profit breakdowns
+- Operating and Free Cash Flow analysis
+- Balance Sheet metrics: Assets, Liabilities, Equity
+- Liquidity and Leverage Ratios
+- KPI Benchmarks with CFO-style commentary
+
+## ✅ KPI Highlights
+- **Net Margin**: 33.1% (121% above benchmark)
+- **Gross Margin**: 60.0% (50% above benchmark)
+- **Operating Margin**: 32.1%
+- **Cash Conversion Ratio**: 0.95 ⚠️ (5% below benchmark)
+- **Current Ratio**: 2.91 ✅ (94% above benchmark)
+- **Debt-to-Equity**: 1.00 ✅ (within benchmark range)
+
+## 📁 Repository Structure
+- `images/`: Dashboard visuals extracted from the PDF
+- `templates/`: Power BI and Excel templates (to be added)
+- `docs/`: Supporting documentation and pinned post
+
+## 📄 License
+This project is licensed under the MIT License — feel free to use and adapt.
+
+## 🌐 Community Links
+- Power BI Community
+- [Microsoft Fabric Community](https://community.fabric.microsoft  
+Empowering finance teams with clarity and speed.
+
+---
+
+Feel free to fork, contribute, or share feedback!
