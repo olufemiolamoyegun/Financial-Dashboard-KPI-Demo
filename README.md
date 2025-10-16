@@ -25,10 +25,6 @@ This repository contains a Power BI dashboard built for executive-level financia
 ## 📄 License
 This project is licensed under the MIT License.
 
-## 🌐 Community Links
-- Power BI Community
-- Microsoft Fabric Community
-
 ## 👤 Author
 **Olufemi Olamoyegun**  
 Empowering finance teams with clarity and speed.
