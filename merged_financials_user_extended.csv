@@ -1,0 +1,265 @@
+Period,Financial,Value,Line Item Description,Level 1 Item,Level 2 Item,Highlight,Expense
+25-Jan,Sales Revenue,1071,Sales Revenue,Sales,Sales Revenue,1,1
+25-Jan,COGS,428,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Jan,Gross Profit,643,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Jan,Operating Expenses,309,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Jan,Operating Profit,334,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Jan,Other Income,41,Other Income,Other Income,Other Income,0,1
+25-Jan,Other Expenses,17,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Jan,Net Profit,358,Net Profit,Net Profit,Net Profit,1,1
+25-Feb,Sales Revenue,1126,Sales Revenue,Sales,Sales Revenue,1,1
+25-Feb,COGS,450,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Feb,Gross Profit,676,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Feb,Operating Expenses,333,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Feb,Operating Profit,343,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Feb,Other Income,52,Other Income,Other Income,Other Income,0,1
+25-Feb,Other Expenses,30,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Feb,Net Profit,365,Net Profit,Net Profit,Net Profit,1,1
+25-Mar,Sales Revenue,1347,Sales Revenue,Sales,Sales Revenue,1,1
+25-Mar,COGS,538,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Mar,Gross Profit,809,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Mar,Operating Expenses,392,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Mar,Operating Profit,417,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Mar,Other Income,21,Other Income,Other Income,Other Income,0,1
+25-Mar,Other Expenses,24,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Mar,Net Profit,414,Net Profit,Net Profit,Net Profit,1,1
+25-Apr,Sales Revenue,1334,Sales Revenue,Sales,Sales Revenue,1,1
+25-Apr,COGS,533,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Apr,Gross Profit,801,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Apr,Operating Expenses,374,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Apr,Operating Profit,427,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Apr,Other Income,56,Other Income,Other Income,Other Income,0,1
+25-Apr,Other Expenses,36,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Apr,Net Profit,447,Net Profit,Net Profit,Net Profit,1,1
+25-May,Sales Revenue,1447,Sales Revenue,Sales,Sales Revenue,1,1
+25-May,COGS,578,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-May,Gross Profit,869,Gross Profit,Gross Profit,Gross Profit,1,1
+25-May,Operating Expenses,387,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-May,Operating Profit,482,Operating Profit,Operating Profit,Operating Profit,1,1
+25-May,Other Income,31,Other Income,Other Income,Other Income,0,1
+25-May,Other Expenses,15,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-May,Net Profit,498,Net Profit,Net Profit,Net Profit,1,1
+25-Jun,Sales Revenue,1466,Sales Revenue,Sales,Sales Revenue,1,1
+25-Jun,COGS,586,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Jun,Gross Profit,880,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Jun,Operating Expenses,432,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Jun,Operating Profit,448,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Jun,Other Income,21,Other Income,Other Income,Other Income,0,1
+25-Jun,Other Expenses,27,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Jun,Net Profit,442,Net Profit,Net Profit,Net Profit,1,1
+25-Jul,Sales Revenue,1306,Sales Revenue,Sales,Sales Revenue,1,1
+25-Jul,COGS,522,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Jul,Gross Profit,784,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Jul,Operating Expenses,341,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Jul,Operating Profit,443,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Jul,Other Income,31,Other Income,Other Income,Other Income,0,1
+25-Jul,Other Expenses,34,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Jul,Net Profit,440,Net Profit,Net Profit,Net Profit,1,1
+25-Aug,Sales Revenue,1349,Sales Revenue,Sales,Sales Revenue,1,1
+25-Aug,COGS,539,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Aug,Gross Profit,810,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Aug,Operating Expenses,397,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Aug,Operating Profit,413,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Aug,Other Income,43,Other Income,Other Income,Other Income,0,1
+25-Aug,Other Expenses,19,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Aug,Net Profit,437,Net Profit,Net Profit,Net Profit,1,1
+25-Sep,Sales Revenue,1362,Sales Revenue,Sales,Sales Revenue,1,1
+25-Sep,COGS,544,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Sep,Gross Profit,818,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Sep,Operating Expenses,341,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Sep,Operating Profit,477,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Sep,Other Income,42,Other Income,Other Income,Other Income,0,1
+25-Sep,Other Expenses,32,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Sep,Net Profit,487,Net Profit,Net Profit,Net Profit,1,1
+25-Oct,Sales Revenue,1084,Sales Revenue,Sales,Sales Revenue,1,1
+25-Oct,COGS,433,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Oct,Gross Profit,651,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Oct,Operating Expenses,297,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Oct,Operating Profit,354,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Oct,Other Income,37,Other Income,Other Income,Other Income,0,1
+25-Oct,Other Expenses,21,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Oct,Net Profit,370,Net Profit,Net Profit,Net Profit,1,1
+25-Nov,Sales Revenue,1456,Sales Revenue,Sales,Sales Revenue,1,1
+25-Nov,COGS,582,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Nov,Gross Profit,874,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Nov,Operating Expenses,397,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Nov,Operating Profit,477,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Nov,Other Income,32,Other Income,Other Income,Other Income,0,1
+25-Nov,Other Expenses,20,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Nov,Net Profit,489,Net Profit,Net Profit,Net Profit,1,1
+25-Dec,Sales Revenue,1078,Sales Revenue,Sales,Sales Revenue,1,1
+25-Dec,COGS,431,Cost of Goods Sold,Cost of Goods Sold,Cost of Goods Sold,0,-1
+25-Dec,Gross Profit,647,Gross Profit,Gross Profit,Gross Profit,1,1
+25-Dec,Operating Expenses,308,Operating Expenses,Operating Expenses,Operating Expenses,1,-1
+25-Dec,Operating Profit,339,Operating Profit,Operating Profit,Operating Profit,1,1
+25-Dec,Other Income,36,Other Income,Other Income,Other Income,0,1
+25-Dec,Other Expenses,11,Other Expenses,Other Expenses,Other Expenses,0,-1
+25-Dec,Net Profit,364,Net Profit,Net Profit,Net Profit,1,1
+25-Jan,Assets,1529,Cash,Assets,Current Assets,1,1
+25-Jan,Assets,818,Accounts Receivable,Assets,Current Assets,1,1
+25-Jan,Assets,532,Inventory,Assets,Current Assets,1,1
+25-Jan,Assets,3938,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Jan,Liabilities,738,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Jan,Liabilities,389,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Jan,Liabilities,2465,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Jan,Equity,1958,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Jan,Equity,1567,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Jan,Cash Flow,406,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Jan,Cash Flow,-206,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Jan,Cash Flow,326,Loan Received,Cash Flow,Financing Activities,1,1
+25-Jan,Cash Flow,-56,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Jan,Cash Flow,394,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Feb,Assets,1486,Cash,Assets,Current Assets,1,1
+25-Feb,Assets,989,Accounts Receivable,Assets,Current Assets,1,1
+25-Feb,Assets,606,Inventory,Assets,Current Assets,1,1
+25-Feb,Assets,3971,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Feb,Liabilities,687,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Feb,Liabilities,377,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Feb,Liabilities,2468,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Feb,Equity,1976,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Feb,Equity,1533,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Feb,Cash Flow,437,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Feb,Cash Flow,-175,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Feb,Cash Flow,283,Loan Received,Cash Flow,Financing Activities,1,1
+25-Feb,Cash Flow,-115,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Feb,Cash Flow,397,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Mar,Assets,1529,Cash,Assets,Current Assets,1,1
+25-Mar,Assets,886,Accounts Receivable,Assets,Current Assets,1,1
+25-Mar,Assets,566,Inventory,Assets,Current Assets,1,1
+25-Mar,Assets,4087,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Mar,Liabilities,652,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Mar,Liabilities,389,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Mar,Liabilities,2476,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Mar,Equity,2003,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Mar,Equity,1552,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Mar,Cash Flow,407,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Mar,Cash Flow,-195,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Mar,Cash Flow,263,Loan Received,Cash Flow,Financing Activities,1,1
+25-Mar,Cash Flow,-90,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Mar,Cash Flow,404,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Apr,Assets,1436,Cash,Assets,Current Assets,1,1
+25-Apr,Assets,850,Accounts Receivable,Assets,Current Assets,1,1
+25-Apr,Assets,677,Inventory,Assets,Current Assets,1,1
+25-Apr,Assets,4076,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Apr,Liabilities,625,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Apr,Liabilities,372,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Apr,Liabilities,2594,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Apr,Equity,2033,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Apr,Equity,1417,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Apr,Cash Flow,357,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Apr,Cash Flow,-219,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Apr,Cash Flow,347,Loan Received,Cash Flow,Financing Activities,1,1
+25-Apr,Cash Flow,-144,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Apr,Cash Flow,364,Net Change in Cash,Cash Flow,Net Change,1,1
+25-May,Assets,1462,Cash,Assets,Current Assets,1,1
+25-May,Assets,886,Accounts Receivable,Assets,Current Assets,1,1
+25-May,Assets,505,Inventory,Assets,Current Assets,1,1
+25-May,Assets,4002,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-May,Liabilities,789,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-May,Liabilities,314,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-May,Liabilities,2595,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-May,Equity,1908,Share Capital,Equity,Shareholder’s Equity,1,1
+25-May,Equity,1586,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-May,Cash Flow,420,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-May,Cash Flow,-169,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-May,Cash Flow,281,Loan Received,Cash Flow,Financing Activities,1,1
+25-May,Cash Flow,-121,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-May,Cash Flow,363,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Jun,Assets,1460,Cash,Assets,Current Assets,1,1
+25-Jun,Assets,834,Accounts Receivable,Assets,Current Assets,1,1
+25-Jun,Assets,666,Inventory,Assets,Current Assets,1,1
+25-Jun,Assets,4083,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Jun,Liabilities,723,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Jun,Liabilities,364,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Jun,Liabilities,2493,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Jun,Equity,1941,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Jun,Equity,1487,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Jun,Cash Flow,383,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Jun,Cash Flow,-220,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Jun,Cash Flow,338,Loan Received,Cash Flow,Financing Activities,1,1
+25-Jun,Cash Flow,-131,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Jun,Cash Flow,380,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Jul,Assets,1459,Cash,Assets,Current Assets,1,1
+25-Jul,Assets,888,Accounts Receivable,Assets,Current Assets,1,1
+25-Jul,Assets,552,Inventory,Assets,Current Assets,1,1
+25-Jul,Assets,4016,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Jul,Liabilities,726,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Jul,Liabilities,265,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Jul,Liabilities,2577,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Jul,Equity,2049,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Jul,Equity,1519,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Jul,Cash Flow,417,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Jul,Cash Flow,-173,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Jul,Cash Flow,299,Loan Received,Cash Flow,Financing Activities,1,1
+25-Jul,Cash Flow,-80,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Jul,Cash Flow,393,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Aug,Assets,1451,Cash,Assets,Current Assets,1,1
+25-Aug,Assets,916,Accounts Receivable,Assets,Current Assets,1,1
+25-Aug,Assets,537,Inventory,Assets,Current Assets,1,1
+25-Aug,Assets,4080,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Aug,Liabilities,670,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Aug,Liabilities,322,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Aug,Liabilities,2501,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Aug,Equity,1959,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Aug,Equity,1585,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Aug,Cash Flow,440,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Aug,Cash Flow,-244,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Aug,Cash Flow,284,Loan Received,Cash Flow,Financing Activities,1,1
+25-Aug,Cash Flow,-147,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Aug,Cash Flow,354,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Sep,Assets,1528,Cash,Assets,Current Assets,1,1
+25-Sep,Assets,905,Accounts Receivable,Assets,Current Assets,1,1
+25-Sep,Assets,520,Inventory,Assets,Current Assets,1,1
+25-Sep,Assets,3962,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Sep,Liabilities,714,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Sep,Liabilities,221,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Sep,Liabilities,2443,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Sep,Equity,2020,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Sep,Equity,1557,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Sep,Cash Flow,363,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Sep,Cash Flow,-218,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Sep,Cash Flow,264,Loan Received,Cash Flow,Financing Activities,1,1
+25-Sep,Cash Flow,-126,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Sep,Cash Flow,351,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Oct,Assets,1585,Cash,Assets,Current Assets,1,1
+25-Oct,Assets,982,Accounts Receivable,Assets,Current Assets,1,1
+25-Oct,Assets,586,Inventory,Assets,Current Assets,1,1
+25-Oct,Assets,4027,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Oct,Liabilities,609,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Oct,Liabilities,334,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Oct,Liabilities,2510,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Oct,Equity,1959,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Oct,Equity,1527,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Oct,Cash Flow,380,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Oct,Cash Flow,-164,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Oct,Cash Flow,278,Loan Received,Cash Flow,Financing Activities,1,1
+25-Oct,Cash Flow,-66,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Oct,Cash Flow,416,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Nov,Assets,1475,Cash,Assets,Current Assets,1,1
+25-Nov,Assets,998,Accounts Receivable,Assets,Current Assets,1,1
+25-Nov,Assets,698,Inventory,Assets,Current Assets,1,1
+25-Nov,Assets,3954,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Nov,Liabilities,640,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Nov,Liabilities,280,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Nov,Liabilities,2469,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Nov,Equity,2042,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Nov,Equity,1498,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Nov,Cash Flow,436,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Nov,Cash Flow,-174,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Nov,Cash Flow,257,Loan Received,Cash Flow,Financing Activities,1,1
+25-Nov,Cash Flow,-65,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Nov,Cash Flow,441,Net Change in Cash,Cash Flow,Net Change,1,1
+25-Dec,Assets,1487,Cash,Assets,Current Assets,1,1
+25-Dec,Assets,804,Accounts Receivable,Assets,Current Assets,1,1
+25-Dec,Assets,559,Inventory,Assets,Current Assets,1,1
+25-Dec,Assets,4077,"Property, Plant & Equipment",Assets,Non-current Assets,1,1
+25-Dec,Liabilities,679,Accounts Payable,Liabilities,Current Liabilities,1,1
+25-Dec,Liabilities,370,Short-term Loans,Liabilities,Current Liabilities,1,1
+25-Dec,Liabilities,2487,Long-term Debt,Liabilities,Non-current Liabilities,1,1
+25-Dec,Equity,2056,Share Capital,Equity,Shareholder’s Equity,1,1
+25-Dec,Equity,1454,Retained Earnings,Equity,Shareholder’s Equity,1,1
+25-Dec,Cash Flow,404,Net Cash from Operating Activities,Cash Flow,Operating Activities,1,1
+25-Dec,Cash Flow,-181,Purchase of Equipment,Cash Flow,Investing Activities,0,-1
+25-Dec,Cash Flow,349,Loan Received,Cash Flow,Financing Activities,1,1
+25-Dec,Cash Flow,-70,Dividends Paid,Cash Flow,Financing Activities,0,-1
+25-Dec,Cash Flow,429,Net Change in Cash,Cash Flow,Net Change,1,1
